@@ -1,5 +1,5 @@
-#ifndef LUA_MANAGER
-#define LUA_MANAGER
+#ifndef LUA_MANAGER_H
+#define LUA_MANAGER_H
 
 #define SOL_ALL_SAFETIES_ON 1
 #include <sol/sol.hpp>

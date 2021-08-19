@@ -1,5 +1,5 @@
-#ifndef RENDERABLE
-#define RENDERABLE
+#ifndef RENDERABLE_H
+#define RENDERABLE_H
 
 #include <cstdint>
 #include <string>

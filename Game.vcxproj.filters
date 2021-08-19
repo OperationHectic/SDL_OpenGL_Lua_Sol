@@ -27,9 +27,13 @@
     <ClCompile Include="LuaManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="scripts\lua\test.lua" />
+    <None Include="scripts\lua\appSettings.lua" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Renderable.h">
@@ -39,6 +43,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="LuaManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
