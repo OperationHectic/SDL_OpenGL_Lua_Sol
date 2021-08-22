@@ -1,5 +1,6 @@
 #include "Renderable.h"
 
+#include <cstring>
 #include <iostream>
 
 Renderable::Renderable(const std::vector<GLfloat>& vertices, 
